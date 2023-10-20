@@ -1,0 +1,3 @@
+/Users/caron/data-science/advanced-cplusplus/AnRGBClass/CMakeFiles/AnRGBClass.dir
+/Users/caron/data-science/advanced-cplusplus/AnRGBClass/CMakeFiles/edit_cache.dir
+/Users/caron/data-science/advanced-cplusplus/AnRGBClass/CMakeFiles/rebuild_cache.dir
